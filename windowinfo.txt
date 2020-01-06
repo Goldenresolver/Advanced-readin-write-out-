@@ -1,0 +1,2 @@
+glass, .80
+aluminum, 1.25

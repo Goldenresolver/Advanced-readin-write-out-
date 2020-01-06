@@ -1,0 +1,19 @@
+                  WELCOME TO THE WONDERFUL WORLD OF WINDOWS!!                   	UserName:tjtj0
+
+Please enter your name: jtjtjtttt
+Please enter your age:55
+
+Length of the window(inches):30
+Width of the window(inches): 50
+
+Name:jtjtjtttt			UserName:tjtj0
+***********************************************
+Total cost of glass:               	$1200.0
+	Area:1500
+Total cost of metal stripping:    	$200.0
+	Perimeter: 160
+Total cost of window:             
+
+You earned a 10% Discount:       	$140.0
+**********************************************
+Final cost of window:			$1260.0
